@@ -1,0 +1,16 @@
+# Build artifacts
+__pycache__/
+build/
+*.so
+
+# Outputs
+bin/
+
+# Python virtual environments
+venv/
+
+# VS Code project settings
+.vscode/
+
+# Diagrams
+*.drawio
